@@ -1,2 +1,2 @@
 # EUDORA
-Skin Script Of Eudors
+Skin Script Of Eudora that make you wow
